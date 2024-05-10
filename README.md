@@ -18,7 +18,7 @@ This script allows you to encrypt any file using AES encryption and then convert
 
 2. **Usage:**
 
-   - Run the script using Python: `main.py` or `main_gui.py'(for GUI).
+   - Run the script using Python: `main.py` or `main_gui.py`(for GUI).
    - Choose either "File to Audio" or "Audio to File" option.
    - Provide the necessary inputs like the filename, password, and file extension when prompted.
 
