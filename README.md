@@ -7,7 +7,7 @@ This script allows you to encrypt any file using AES encryption and then convert
 - **File Encryption:** Encrypt any file using AES encryption with CBC mode and a user-provided key.
 - **Audio Conversion:** Convert encrypted binary files into audio files in WAV format.
 - **File Decryption:** Decrypt audio files back into their original binary form.
-- **User Interaction:** Simple CLI interface for selecting encryption or decryption and providing necessary inputs.
+- **User Interaction:** Simple CLI interface and GUI version for providing necessary inputs.
 
 ## Usage
 
@@ -18,7 +18,7 @@ This script allows you to encrypt any file using AES encryption and then convert
 
 2. **Usage:**
 
-   - Run the script using Python: `main.py` or `main_gui.py`(for GUI).
+   - Run the script using Python: `main.py`,`main_gui.py` or just run the executable inside the dist folder.
    - Choose either "File to Audio" or "Audio to File" option.
    - Provide the necessary inputs like the filename, password, and file extension when prompted.
 
